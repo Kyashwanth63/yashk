@@ -2,7 +2,8 @@ hi
 this is a sample text
 
 ---its is new branch line 1
+the data is inserted
 
 now it is updated
-
+im testing and merging
 ---its is new branch line 2
