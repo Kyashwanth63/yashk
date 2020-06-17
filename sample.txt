@@ -1,4 +1,8 @@
 hi 
 this is a sample text
 
+---its is new branch line 1
+
 now it is updated
+
+---its is new branch line 2
